@@ -1,2 +1,2 @@
-# HelloWorld
-to learn Coursera bitcoin
+# Kaggle
+to learn Kaggle data management
